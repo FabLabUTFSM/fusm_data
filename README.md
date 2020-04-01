@@ -2,11 +2,11 @@
 
 ## Entorno de desarrollo
 
-Instalar el controlador de dependencias Poetry:
+Este software está desarrollado considerando **Python 3.7** o superior.
 
-```
-python3 -m pip install poetry
-```
+Instalar el controlador de dependencias Poetry siguiendo las instrucciones
+para su sistema operativo correspondiente disponibles
+[aquí.](https://python-poetry.org/docs/#installation)
 
 Luego crear el entorno virtual e instalar:
 
